@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{9EF50CBB-C52E-45D7-B47C-5363E4236B0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{49320F05-92D8-406B-A468-A1D0751780D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{06498067-13B0-4848-9748-AF0B749BDA4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{29036389-3AE5-4A67-B13D-E39AFF0F1F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Domain", "Cinema.Domain\Cinema.Domain.csproj", "{D2A68F22-878E-4EC8-A9D1-892376201D66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Application", "Cinema.Application\Cinema.Application.csproj", "{1E321808-498F-4D38-A175-C1C95FB33E27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Persinstence", "Cinema.Persinstence\Cinema.Persinstence.csproj", "{E483893C-71A0-4513-B5BF-845A3EBE47D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.WebApi", "Cinema.WebApi\Cinema.WebApi.csproj", "{22005045-5420-4D05-B23C-4047413B5B11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A68F22-878E-4EC8-A9D1-892376201D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A68F22-878E-4EC8-A9D1-892376201D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A68F22-878E-4EC8-A9D1-892376201D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A68F22-878E-4EC8-A9D1-892376201D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E321808-498F-4D38-A175-C1C95FB33E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E321808-498F-4D38-A175-C1C95FB33E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E321808-498F-4D38-A175-C1C95FB33E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E321808-498F-4D38-A175-C1C95FB33E27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E483893C-71A0-4513-B5BF-845A3EBE47D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E483893C-71A0-4513-B5BF-845A3EBE47D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E483893C-71A0-4513-B5BF-845A3EBE47D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E483893C-71A0-4513-B5BF-845A3EBE47D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22005045-5420-4D05-B23C-4047413B5B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22005045-5420-4D05-B23C-4047413B5B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22005045-5420-4D05-B23C-4047413B5B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22005045-5420-4D05-B23C-4047413B5B11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D2A68F22-878E-4EC8-A9D1-892376201D66} = {9EF50CBB-C52E-45D7-B47C-5363E4236B0A}
+		{1E321808-498F-4D38-A175-C1C95FB33E27} = {9EF50CBB-C52E-45D7-B47C-5363E4236B0A}
+		{E483893C-71A0-4513-B5BF-845A3EBE47D6} = {49320F05-92D8-406B-A468-A1D0751780D7}
+		{22005045-5420-4D05-B23C-4047413B5B11} = {06498067-13B0-4848-9748-AF0B749BDA4B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F986CD42-2A0F-4C15-8355-C9C8AE7EDD60}
+	EndGlobalSection
+EndGlobal
