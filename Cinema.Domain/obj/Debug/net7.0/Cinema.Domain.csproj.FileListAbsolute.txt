@@ -1,0 +1,12 @@
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\bin\Debug\net7.0\Cinema.Domain.deps.json
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\bin\Debug\net7.0\Cinema.Domain.dll
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\bin\Debug\net7.0\Cinema.Domain.pdb
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\obj\Debug\net7.0\Cinema.Domain.csproj.AssemblyReference.cache
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\obj\Debug\net7.0\Cinema.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\obj\Debug\net7.0\Cinema.Domain.AssemblyInfoInputs.cache
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\obj\Debug\net7.0\Cinema.Domain.AssemblyInfo.cs
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\obj\Debug\net7.0\Cinema.Domain.csproj.CoreCompileInputs.cache
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\obj\Debug\net7.0\Cinema.Domain.dll
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\obj\Debug\net7.0\refint\Cinema.Domain.dll
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\obj\Debug\net7.0\Cinema.Domain.pdb
+D:\My Files\Programming\C#\Cinema.Backend\Cinema.Domain\obj\Debug\net7.0\ref\Cinema.Domain.dll
